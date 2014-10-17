@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[raa:home|Door43 (raa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-raa|d43-raa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-raa/archive/master.zip|d43-raa.zip]]
+
+**Recent Changes**
+{{changes>ns = raa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/raa|Ethnologue data]]
+
